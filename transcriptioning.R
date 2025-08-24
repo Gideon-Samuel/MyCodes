@@ -1,4 +1,4 @@
-# Ask user for an input
+# Asking user for an input
 x <- readline("Enter a DNA sequence: ")
 
 #Conversion of input to uppercase if it's lowercase
