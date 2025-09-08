@@ -14,4 +14,4 @@ g <- sum(dna_char == "G")
 c <- sum(dna_char == "C")
 
 #Printing results
-cat("\n", "A=", a, "T=", t, "G=", g, "C=", c)
+cat("A=", a, "T=", t, "G=", g, "C=", c, "\n")
